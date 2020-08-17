@@ -2,7 +2,7 @@
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/custom-comp.svg)](https://www.npmjs.com/package/custom-comp) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/custom-comp.svg)](https://www.npmjs.com/package/custom-santhosh) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -26,5 +26,7 @@ class Example extends Component {
 ```
 
 ## License
+
+# Venkat
 
 MIT © [Santhosh-kumar](https://github.com/Santhosh-kumar)
